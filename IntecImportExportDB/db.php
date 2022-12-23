@@ -1,5 +1,7 @@
 <?php
-
+/*Устанавливаем связь с базой данных
+Нужно указать $servername, $username, $password, $dbname;
+*/
 class db
 {
     public function __construct()

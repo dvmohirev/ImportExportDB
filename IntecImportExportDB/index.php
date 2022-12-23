@@ -5,6 +5,11 @@ require "export.php";
 require "import.php";
 include "templates/header.php";
 
+/*Основной файл
+    В нем размещаем формы для импорта и экспорта данных
+    Также создаем экземпляры классов, чтобы использовать их методы для выполнения импорта/экспорта
+*/
+
 $connect = new db();
 $link = $connect->connectWithDB();
 

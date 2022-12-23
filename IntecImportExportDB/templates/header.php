@@ -9,7 +9,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
-    <title>Import CSV File into MySQL using PHP</title>
+    <title>Импорт/Экспорт CSV файла</title>
 
     <style>
         .custom-file-input.selected:lang(en)::after {
